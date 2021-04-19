@@ -2,7 +2,6 @@
 Contains all deliverables for ML 2 final proejct.
 
 * Code - Contains code written project
-* Group Final Presentation - Contains project group presentation
-* Group Final Report - Contains project group report
-
-* Group Proposal - Contains project group proposal.
+* Final Group Project Presentation - Contains group presentation
+* Final Group Project Report - Contains group report
+* Group Proposal - Contains group proposal outlining the project.
